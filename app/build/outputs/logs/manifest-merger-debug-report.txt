@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [io.realm:realm-android-library:5.11.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\realm-android-library-5.11.0.aar\218ce525fd7e64d3837f1cdd10a12c54\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\06b6b7e4db17fb92eb90f04b06a5d869\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7826e78c2d668386d6f11b185ef52285\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\5c077353509aebf87bd79afafa2ce585\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\relinker-1.3.0.aar\bb006977e51a7f07e8a571e9e98c2c64\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7ab9df416792d64095314f5bc93c6a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\857f2af6fefae52bc13ae4ef7e14c5ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fd0493497ad00ca5804d504e9f85c46b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0eacae6e6a332af98f874e245b20d0c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\70f89884bb412ab896638c017eec86bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\01b4d36c5869ae00ffa233a6a54bdb3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\582d98a2807366ace7af5ecf84946726\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\48f1f34402cb07e11e63b308afe02878\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7f97f0223cb5ffc6c5f3f554ded454cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\41f94e46471eb1363bfaa3ea66638d76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e6560e9a1120eef1c8f0a97df0012426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\75613a9015a89ff0d8498f16b23237bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\646d332015e60953640fbe065602bfa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\71fce1cef9ab993877b70075e41712e6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fa250f54c5e1ecbdf84bf6826c48fa98\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b80be961cafaa3a728262a1b0ac361fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\507a9017cf793241460f8601b5ec7fb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e431d82ead313544e742170620674a36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\79f45d508fefe553ed0acfbddd9a590b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\af78a782ad7c4d0d0056b08c4f54e058\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b6cb6c73b810dad92f365a1b5f0bad2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5c0c496d1704ffec73e3bef811631d1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bcf3d40f7d6209fefd1a433337703735\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\068c10f511623a93883660dabfb2b50f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\38aa56a859643d3f0f2daed5d35488e3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7826e78c2d668386d6f11b185ef52285\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7826e78c2d668386d6f11b185ef52285\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\71fce1cef9ab993877b70075e41712e6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\71fce1cef9ab993877b70075e41712e6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fa250f54c5e1ecbdf84bf6826c48fa98\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fa250f54c5e1ecbdf84bf6826c48fa98\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\71fce1cef9ab993877b70075e41712e6\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ramdani.tubes_akb.MainActivity
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:theme
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:13:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.ramdani.tubes_akb.SplashActivity
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:theme
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:22:13-72
+activity#com.example.ramdani.tubes_akb.Profil
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:30:19-70
+activity#com.example.ramdani.tubes_akb.tambahteman
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:31:9-78
+	android:name
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:31:19-75
+activity#com.example.ramdani.tubes_akb.LoadActivity
+ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:32:9-88
+	android:name
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml:32:19-76
+uses-sdk
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.11.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\realm-android-library-5.11.0.aar\218ce525fd7e64d3837f1cdd10a12c54\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.11.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\realm-android-library-5.11.0.aar\218ce525fd7e64d3837f1cdd10a12c54\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\06b6b7e4db17fb92eb90f04b06a5d869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\06b6b7e4db17fb92eb90f04b06a5d869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7826e78c2d668386d6f11b185ef52285\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7826e78c2d668386d6f11b185ef52285\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\5c077353509aebf87bd79afafa2ce585\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\5c077353509aebf87bd79afafa2ce585\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\relinker-1.3.0.aar\bb006977e51a7f07e8a571e9e98c2c64\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\relinker-1.3.0.aar\bb006977e51a7f07e8a571e9e98c2c64\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7ab9df416792d64095314f5bc93c6a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7ab9df416792d64095314f5bc93c6a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\857f2af6fefae52bc13ae4ef7e14c5ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\857f2af6fefae52bc13ae4ef7e14c5ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fd0493497ad00ca5804d504e9f85c46b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fd0493497ad00ca5804d504e9f85c46b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0eacae6e6a332af98f874e245b20d0c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0eacae6e6a332af98f874e245b20d0c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\70f89884bb412ab896638c017eec86bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\70f89884bb412ab896638c017eec86bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\01b4d36c5869ae00ffa233a6a54bdb3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\01b4d36c5869ae00ffa233a6a54bdb3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\582d98a2807366ace7af5ecf84946726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\582d98a2807366ace7af5ecf84946726\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\48f1f34402cb07e11e63b308afe02878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\48f1f34402cb07e11e63b308afe02878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7f97f0223cb5ffc6c5f3f554ded454cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7f97f0223cb5ffc6c5f3f554ded454cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\41f94e46471eb1363bfaa3ea66638d76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\41f94e46471eb1363bfaa3ea66638d76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e6560e9a1120eef1c8f0a97df0012426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e6560e9a1120eef1c8f0a97df0012426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\75613a9015a89ff0d8498f16b23237bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\75613a9015a89ff0d8498f16b23237bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\646d332015e60953640fbe065602bfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\646d332015e60953640fbe065602bfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\71fce1cef9ab993877b70075e41712e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\71fce1cef9ab993877b70075e41712e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fa250f54c5e1ecbdf84bf6826c48fa98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fa250f54c5e1ecbdf84bf6826c48fa98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b80be961cafaa3a728262a1b0ac361fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b80be961cafaa3a728262a1b0ac361fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\507a9017cf793241460f8601b5ec7fb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\507a9017cf793241460f8601b5ec7fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e431d82ead313544e742170620674a36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e431d82ead313544e742170620674a36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\79f45d508fefe553ed0acfbddd9a590b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\79f45d508fefe553ed0acfbddd9a590b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\af78a782ad7c4d0d0056b08c4f54e058\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\af78a782ad7c4d0d0056b08c4f54e058\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b6cb6c73b810dad92f365a1b5f0bad2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b6cb6c73b810dad92f365a1b5f0bad2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5c0c496d1704ffec73e3bef811631d1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5c0c496d1704ffec73e3bef811631d1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bcf3d40f7d6209fefd1a433337703735\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bcf3d40f7d6209fefd1a433337703735\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\068c10f511623a93883660dabfb2b50f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\068c10f511623a93883660dabfb2b50f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\38aa56a859643d3f0f2daed5d35488e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Chitanda Eru\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\38aa56a859643d3f0f2daed5d35488e3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chitanda Eru\Documents\DataMahasiswa\TUBES_AKB\app\src\main\AndroidManifest.xml
