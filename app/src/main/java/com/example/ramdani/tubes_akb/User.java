@@ -1,10 +1,10 @@
-package com.example.renaldi.tubes_akb;
-/*nama  : Renaldi Ferdiansyah
-  nim   : 10116032
-  kelas : IF-1/AKB-1
-  tanggal pengerjaan : 12-08-2019
- */
-import java.security.PrivateKey;
+package com.example.ramdani.tubes_akb;
+/*
+  Nama                  : Muhamad Ramdani
+  NIM                   : 10116009
+  Kelas                 : IF-1/AKB-1
+  Tanggal pengerjaan    : 12-08-2019
+*/
 
 import io.realm.RealmObject;
 import io.realm.annotations.PrimaryKey;

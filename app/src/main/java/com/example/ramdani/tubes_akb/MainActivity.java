@@ -1,17 +1,16 @@
-package com.example.renaldi.tubes_akb;
-/*nama  : Renaldi Ferdiansyah
-  nim   : 10116032
-  kelas : IF-1/AKB-1
-  tanggal pengerjaan : 12-08-2019
- */
-import android.content.Context;
+package com.example.ramdani.tubes_akb;
+/*
+  Nama                  : Muhamad Ramdani
+  NIM                   : 10116009
+  Kelas                 : IF-1/AKB-1
+  Tanggal pengerjaan    : 12-08-2019
+*/
+
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
